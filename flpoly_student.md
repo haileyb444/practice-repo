@@ -1,27 +1,27 @@
-## First Name Last Name
+## Hailey Bauer
 
-### Term Year 
+### Fall 2023 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Foundations of Data Analytics
 
-- Course 2
+- Engineering and Technology Project Management
 
-- Course 3
+- Principles of Microeconomics
 
-- Course 4
+- Statistics 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Baking
 
-- Thing 2
+- Reading
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Camping as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/08/31
