@@ -4,13 +4,13 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Foundations of Data Analytics
+| Prefix | Number | Name                                           | Credits  |
+|:------:|:------:|:----------------------------------------------:|:--------:|
+| COP    | 2073   | Foundations of Data Analytics                  | 3        |
+| ECO    | 3625   | Principles of Microeconomics                   | 3        |
+| STA    | 2023   | Statistics 1                                   | 3        |
+| EGS    | 3625   | Engineering & Technology Project Management    | 3        |    
 
-- Engineering and Technology Project Management
-
-- Principles of Microeconomics
-
-- Statistics 1
 
 **Hobbies:**
 
@@ -24,4 +24,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2023/08/31
+> Last modified: 2023/09/11
