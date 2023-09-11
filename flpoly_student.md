@@ -6,10 +6,10 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 | **Prefix** | **Number** | *Name*                                         | Credits  |
 |:----------:|:----------:|:----------------------------------------------:|:--------:|
-| COP        | 2073       | Foundations of Data Analytics                  | 3        |
-| ECO        | 2023       | Principles of Microeconomics                   | 3        |
-| STA        | 2023       | Statistics 1                                   | 3        |
-| EGS        | 3625       | Engineering & Technology Project Management    | 3        |    
+| **COP**    | **2073**   | *Foundations of Data Analytics*                | 3        |
+| **ECO**    | **2023**   | *Principles of Microeconomics*                 | 3        |
+| **STA**    | **2023**   | *Statistics 1*                                 | 3        |
+| **EGS**    | **3625**   | *Engineering & Technology Project Management*  | 3        |    
 
 
 **Hobbies:**
